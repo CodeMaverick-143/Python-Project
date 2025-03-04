@@ -1,1 +1,3 @@
 # Python-Project
+- Sudoku
+- Notepad
