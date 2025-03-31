@@ -4,7 +4,7 @@ import pyttsx3
 import sqlite3
 import os
 
-# Initialize Text-to-Speech Engine
+# Initialize Text-to-Speech Engine.
 engine = pyttsx3.init()
 
 # Database Setup
